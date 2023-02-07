@@ -1,2 +1,2 @@
-# InnitAlejandro.github.io
+# InitAlejandro.github.io
 GitHub Pages Example
